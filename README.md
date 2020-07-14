@@ -1,6 +1,7 @@
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
+This is my build of st, with some customizations that work for me.
 
 
 Requirements
@@ -30,5 +31,5 @@ See the man page for additional details.
 
 Credits
 -------
-Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
-
+This is a fork of suckless st.
+st based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
