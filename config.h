@@ -6,6 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Roboto Mono:size=11:antialias=true:autohint=false:hinting=false:dpi=96";
+static char *font2[] = { "Noto Color Emoji:size=11" };
 static int borderpx = 10;
 
 /*
